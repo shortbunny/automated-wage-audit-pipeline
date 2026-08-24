@@ -1,0 +1,12 @@
+employee_id,name,job_description,employment_type,date,day_type,hours_worked,amount_actually_paid
+E001,Priya Nair,"Has completed induction training, now works the sales floor independently, operating the register and helping customers unsupervised.",casual,2026-08-01,saturday,6,88.61
+E001,Priya Nair,"Has completed induction training, now works the sales floor independently, operating the register and helping customers unsupervised.",casual,2026-08-03,sunday,5,217.64
+E002,Jack Thompson,"Just started two weeks ago. Spends shifts stacking shelves and putting price tags on stock, always under a supervisor's direct instruction.",permanent,2026-08-03,weekday,7.6,183.08
+E002,Jack Thompson,"Just started two weeks ago. Spends shifts stacking shelves and putting price tags on stock, always under a supervisor's direct instruction.",permanent,2026-08-04,weekday,9.6,215.00
+E003,Mei Lin,"Been in the role 14 months. Counts the till at end of day, manages stock reordering, and is the one two newer casuals check with when unsure what to do on shift.",casual,2026-08-01,saturday,4,51.85
+E003,Mei Lin,"Been in the role 14 months. Counts the till at end of day, manages stock reordering, and is the one two newer casuals check with when unsure what to do on shift.",casual,2026-08-15,public_holiday,5,150.00
+E004,Sam Ortiz,"Runs the entire homewares department, sets the roster for staff in that section, and is fully accountable for its sales targets and stock.",permanent,2026-08-03,weekday,7.6,206.42
+E004,Sam Ortiz,"Runs the entire homewares department, sets the roster for staff in that section, and is fully accountable for its sales targets and stock.",permanent,2026-08-09,sunday,6,244.44
+E005,Grace Kelly,"New starter, cleaning and restocking shelves for about a month, always under a manager's direct instruction.",casual,2026-08-01,saturday,3,45.09
+E005,Grace Kelly,"New starter, cleaning and restocking shelves for about a month, always under a manager's direct instruction.",casual,2026-08-02,weekday,5,150.56
+E006,Alex Nguyen,"Assistant Store Manager.",permanent,2026-08-03,weekday,7.6,220.00
